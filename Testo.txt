@@ -1213,8 +1213,20 @@ disegno di legge.
 
                               Art. 73.
 
-  Le  leggi  sono promulgate dal Presidente della Repubblica entro un
-mese dall'approvazione.
+  Le leggi sono promulgate dal Presidente della Repubblica entro un
+mese dall'approvazione. 
+  Le leggi che disciplinano l'elezione dei membri  della  Camera  dei
+deputati e del Senato della  Repubblica  possono  essere  sottoposte,
+prima  della  loro   promulgazione,   al   giudizio   preventivo   di
+legittimita' costituzionale da parte della Corte  costituzionale,  su
+ricorso motivato presentato da almeno un quarto dei componenti  della
+Camera dei deputati o da almeno un terzo dei  componenti  del  Senato
+della Repubblica entro dieci giorni  dall'approvazione  della  legge,
+prima dei quali  la  legge  non  puo'  essere  promulgata.  La  Corte
+costituzionale si pronuncia entro il termine di trenta giorni e, fino
+ad allora, resta sospeso il termine per la promulgazione della legge.
+In caso di dichiarazione di illegittimita' costituzionale,  la  legge
+non puo' essere promulgata.
   Se   le   Camere,   ciascuna  a  maggioranza  assoluta  dei  propri
 componenti,  ne  dichiarano  l'urgenza,  la  legge  e' promulgata nel
 termine da essa stabilito.
@@ -2364,6 +2376,10 @@ Regioni;
 quelli tra lo Stato e le Regioni, e tra le Regioni;
     sulle  accuse  promosse  contro  il  Presidente  della Repubblica
 (( . . . )), a norma della Costituzione.
+  La  Corte  costituzionale  giudica  altresi'  della  legittimita'
+costituzionale delle leggi che  disciplinano  l'elezione  dei  membri
+della Camera dei deputati e del  Senato  della  Repubblica  ai  sensi
+dell'articolo 73, secondo comma.
 
 
     
