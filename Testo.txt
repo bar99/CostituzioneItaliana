@@ -2158,7 +2158,10 @@ o  transito tra le Regioni, ne' adottare provvedimenti che ostacolino
 in  qualsiasi  modo la libera circolazione delle persone e delle cose
 tra  le  Regioni,  ne'  limitare l'esercizio del diritto al lavoro in
 qualunque parte del territorio nazionale.
-  Il  Governo  puo'  sostituirsi a organi delle Regioni, delle Citta'
+  Il  Governo   ,  acquisito,
+salvi i  casi  di  motivata  urgenza,  il  parere  del  Senato  della
+Repubblica,  che  deve  essere  reso  entro  quindici  giorni   dalla
+richiesta, puo'  sostituirsi a organi delle Regioni, delle Citta'
 metropolitane,  delle  Province  e  dei  Comuni  nel  caso di mancato
 rispetto  di  norme  e  trattati  internazionali  o  della  normativa
 comunitaria oppure di pericolo grave per l'incolumita' e la sicurezza
@@ -2168,7 +2171,10 @@ essenziali  delle prestazioni concernenti i diritti civili e sociali,
 prescindendo  dai  confini  territoriali dei governi locali. La legge
 definisce  le  procedure  atte  a  garantire che i poteri sostitutivi
 siano  esercitati  nel rispetto del principio di sussidiarieta' e del
-principio di leale collaborazione)).
+principio di leale collaborazione e
+stabilisce i casi di esclusione dei titolari  di  organi  di  governo
+regionali e locali dall'esercizio delle rispettive funzioni quando e'
+stato accertato lo stato di grave dissesto finanziario dell'ente)).
 
 
     
