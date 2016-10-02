@@ -2208,7 +2208,7 @@ legge  della  Regione  nei limiti dei principi fondamentali stabiliti
 con  legge  della  Repubblica,  che  stabilisce anche la durata degli
 organi elettivi.
   Nessuno  puo' appartenere contemporaneamente a un Consiglio o a una
-Giunta  regionale  e  ad una delle Camere del Parlamento, ad un altro
+Giunta  regionale  e  alla Camera dei deputati, ad un altro
 Consiglio o ad altra Giunta regionale, ovvero al Parlamento europeo.
   Il  Consiglio  elegge  tra  i  suoi  componenti  un Presidente e un
 ufficio di presidenza.
@@ -2382,10 +2382,9 @@ richiesta  tanti  Consigli comunali che rappresentino almeno un terzo
 delle  popolazioni  interessate,  e  la  proposta  sia  approvata con
 referendum dalla maggioranza delle popolazioni stesse.
   Si  puo',  con ((l'approvazione della maggioranza delle popolazioni
-della  Provincia  o  delle  Province  interessate  e del Comune o dei
-Comuni  interessati  espressa mediante)) referendum e con legge della
-Repubblica,  sentiti i Consigli regionali, consentire che Provincie e
-Comuni,  che  ne facciano richiesta, siano staccati da una Regione ed
+e del Comune o dei Comuni  interessati  espressa mediante)) referendum
+e con legge della Repubblica,  sentiti i Consigli regionali, consentire
+che i Comuni, che  ne facciano richiesta, siano staccati da una Regione ed
 aggregati ad un'altra.
 
 
@@ -2395,10 +2394,6 @@ aggregati ad un'altra.
 
                               Art. 133.
 
-  Il  mutamento  delle circoscrizioni provinciali e la istituzione di
-nuove  Provincie  nell'ambito  d'una Regione sono stabiliti con leggi
-della  Repubblica,  su  iniziative  dei  Comuni,  sentita  la  stessa
-Regione.
   La  Regione, sentite le popolazioni interessate, puo' con sue leggi
 istituire  nel  proprio  territorio nuovi Comuni e modificare le loro
 circoscrizioni e denominazioni.
