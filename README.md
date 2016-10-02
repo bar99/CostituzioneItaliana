@@ -10,3 +10,5 @@ Il quesito che sarà proposto nel referendum confermativo del 4 dicembre è il s
 La GU con il testo completo delle modifiche è reperibile al seguente link:
 http://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2016-04-15&atto.codiceRedazionale=16A03075&elenco30giorni=false [TXT]
 
+"La riforma costituzionale" PDF per comparazione tra Costituzione vigente e modifiche (opera del "Servizio studi" della Camera dei deputati):
+http://documenti.camera.it/Leg17/Dossier/Pdf/AC0500N.Pdf
